@@ -1,0 +1,52 @@
+package com.example.polygonpad.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+// Light Architectural Palette
+val LightBackground = Color(0xFFF8F9FA)
+val LightSurface = Color(0xFFFFFFFF)
+val LightSurfaceVariant = Color(0xFFEEF1F4)
+val LightPrimary = Color(0xFF1A384A)
+val LightOnPrimary = Color(0xFFFFFFFF)
+val LightPrimaryContainer = Color(0xFFD5E6F0)
+val LightOnPrimaryContainer = Color(0xFF082232)
+val LightSecondary = Color(0xFF336279)
+val LightOnSecondary = Color(0xFFFFFFFF)
+val LightSecondaryContainer = Color(0xFFD3E7F3)
+val LightOnSecondaryContainer = Color(0xFF143040)
+val LightTertiary = Color(0xFF0E697D)
+val LightOnTertiary = Color(0xFFFFFFFF)
+val LightOutline = Color(0xFFCBD2DA)
+val LightOutlineVariant = Color(0xFFE2E6EB)
+val LightOnSurface = Color(0xFF14171A)
+val LightOnSurfaceVariant = Color(0xFF4F5761)
+
+// Dark Blueprint / Graphite Palette
+val DarkBackground = Color(0xFF101316)
+val DarkSurface = Color(0xFF171B20)
+val DarkSurfaceVariant = Color(0xFF21262D)
+val DarkPrimary = Color(0xFF5AB6D8)
+val DarkOnPrimary = Color(0xFF082433)
+val DarkPrimaryContainer = Color(0xFF144057)
+val DarkOnPrimaryContainer = Color(0xFFD5EFFF)
+val DarkSecondary = Color(0xFF8AC7DC)
+val DarkOnSecondary = Color(0xFF0B2D3A)
+val DarkSecondaryContainer = Color(0xFF234B5C)
+val DarkOnSecondaryContainer = Color(0xFFC7EBF8)
+val DarkTertiary = Color(0xFF52C4B8)
+val DarkOnTertiary = Color(0xFF052B27)
+val DarkOutline = Color(0xFF3A424C)
+val DarkOutlineVariant = Color(0xFF293038)
+val DarkOnSurface = Color(0xFFE5E9EE)
+val DarkOnSurfaceVariant = Color(0xFFA6AFBC)
+
+// Accent Colors for Diagrams
+val DiagramPolygonStroke = Color(0xFF2D81A0)
+val DiagramPolygonFill = Color(0x1A2D81A0)
+val DiagramHighlightSide = Color(0xFFE05638)
+val DiagramApothem = Color(0xFF2EA44F)
+val DiagramRadius = Color(0xFF8957E5)
+val DiagramCenter = Color(0xFFE05638)
+val DiagramVertex = Color(0xFF1A384A)
+val DiagramVertexDark = Color(0xFFE5E9EE)
+val DiagramArc = Color(0xFFD97706)
